@@ -151,6 +151,7 @@ pyrsistent==0.18.1
 PyScreeze==0.1.27
 pyshorteners==1.0.1
 pySmartDL==1.3.4
+Python==3.9.0
 python-dateutil==2.8.1
 python-telegram-bot==13.5
 pyttsx3==2.90
