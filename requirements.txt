@@ -132,7 +132,6 @@ pydantic==1.9.0
 pydeck==0.7.1
 PyDictionary==2.0.1
 pydub==0.25.1
-pygame==2.0.1
 PyGetWindow==0.0.9
 Pygments==2.11.2
 pyjokes==0.6.0
